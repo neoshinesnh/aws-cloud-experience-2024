@@ -1,6 +1,8 @@
-## 09H15 - 10H15 - Palestra Principal - IA Generativa para Líderes
+[_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
-**IA Generativa**
+# 09H15 - 10H15 - Palestra Principal - IA Generativa para Líderes
+
+## IA Generativa
 - Qualidade dos dados - desafio #1
 - Estimativa de aumento de 7 trilhões de dólares no PIB global em 10 anos
 - Transformando - casos de empresas que usam IA Generativa
@@ -31,12 +33,12 @@
 - IA Generativa responsável
 - Controle automatizado e testes
 
-**Caso da Empresa Copastur**
+## Caso da Empresa Copastur
 - "Não temos medo da mudança, fazemos parte dela" - Com essa frase em mente, precisamos entender que somos fundamentais para que a mudança ocorra. Assim como aconteceu em 2022, quando nos posicionamos como TMC + TRAVELTECH + GLOBAL, entendemos que estamos vivendo um novo momento.
 - A Copastur uma TRAVELTECH tem como forte oferecer consultoria dedicada para redução de até 30% nos custos de viagens empresariais, com atendimento personalizado e tecnologias para otimizar processos.
 - Usando IA generativa a Copastur pode otimizar seus processos atendendo seus clientes de uma forma melhor.
 
-### Objetivos ML (Machine Learning) com AWS SageMaker:
+### Objetivos ML (Machine Learning) com AWS SageMaker
 1. **Implementação do Modelo de Aprendizado de Máquina**:
    - Compreender o histórico e comportamento das tarifas.
 2. **Origem e Destino**:
@@ -49,6 +51,7 @@
    - Identificar a companhia aérea relacionada a cada tarifa.
 6. **Tipo de Tarifa**:
    - Categorizar as tarifas de acordo com seus tipos.
+
 ### Objetivos Amazon SageMaker:
 1. **LLM (Generativa) - Amazon Bedrock**:
    - Utilizar a GenAI para compreender a lógica por trás das tarifas.
@@ -62,8 +65,10 @@
    - Identificar e documentar as regras gerais das tarifas, incluindo suas bases e códigos.
 6. **Valor de Crédito**:
    - Definir os valores de crédito disponíveis para as tarifas.
+
 ### Arquitetura GenAI - Amazon Bedrock
-#### Entendimento das Regras Tarifárias
+Entendimento das Regras Tarifárias
 - Utilizando a GenAI, é possível construir um modelo das regras parametrizadas para um robô de automação.
+
 Sobre dados
 - Dados são o diferencial estratégico!
