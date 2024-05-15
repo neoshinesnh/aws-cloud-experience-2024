@@ -1,4 +1,5 @@
 ## 11H55 - 12H25-  IA Generativa | Melhore a produtividade das suas equipes utilizando o Amazon Q Business
+
 _Carolina Junqueira Ferreira - AWS_
 
 ### Amazon Q
