@@ -1,6 +1,3 @@
-Claro, aqui está a agenda organizada em markdown:
-
-```markdown
 # AWS Cloud Experience 2024
 
 ---
@@ -193,7 +190,3 @@ Sobre dados
 
 - Microserviços
 - Aplicações modernas com GenAI
-
-```
-
-Espero que isso ajude a organizar as informações do evento!
