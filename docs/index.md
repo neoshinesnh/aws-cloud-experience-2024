@@ -1,5 +1,5 @@
 # AWS Cloud Experience 2024
-
+[_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 ---
 
 ## Abertura - 09H00 - 09H15
