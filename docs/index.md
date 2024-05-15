@@ -23,12 +23,11 @@
 ### [IA Generativa | Fazendo deploy de uma solução de IA generativa de ponta a ponta](/lectures/deployia.md)
 
 ## 15H40 - 16H10
-### [IA Generativa | Prompt Engineering x Fine Tuning x RAG. Qual eu devo usar?](/lectures/promptengineering.md)
+### [IA Generativa | Prompt Engineering x Fine Tuning x RAG. Qual eu devo usar?](/lectures/promptengineering.md) 
 
-## 16H50 - 17H20
+## 16H50 - 17H20 
 ### [PACE | Acelere o desenvolvimento de aplicações de IA Generativa adotando práticas de prototipação rápida](/lectures/pace.md)
 
 ## 17H25 - 17H55
 ### [App Modernization | Modernizando sua arquitetura na AWS com serverless e containers](/lectures/modernizacao.md)
 
-## [Track 10 - Segurança | Navegando com segurança no uso da Inteligência Artificial Generativa](/lectures/segurancaia.md)

@@ -14,9 +14,23 @@ _Ariane Vieira - Solutions Architect - AWS_
    - Técnica que envolve ajustar os parâmetros do modelo em níveis detalhados para melhorar seu desempenho em tarefas específicas.
     * 5. **Treinar seu FM do zero**
    - Abordagem mais radical que envolve criar um novo modelo a partir do zero, adaptando-o às necessidades específicas do projeto.
-* Vector embedding
+* O que são vector embedding?
+    * Busca dados específicos de um dominio
+    * Tokenização
+    * Vetorização
+    * Armazena em uma base de dados de vetor
+    * Executa busca semântica de similaridades
+    * Inclui context semântico similar no prompt
 * Técnicas de Prompt Engineering
-* Escolhendo a estratégia de prompt adequada para sua tarefa com a AWS
-* Importância de estudar engenharia de prompt
-* RAG e Fine-Tuning
- 
+    * Zero-shot
+    * Few-shot
+    * Chain of Thoughts (CoT)
+    * Reasoning & Acting (ReAct)
+    * Self Consistency
+* O que é Retrieval Augmentation Generation?
+    * Retrieval
+        * Busca o conteúdo relevante a partir de uma base de conhecimento externa ou fontes de dados a partir de uma consulta do usuário
+    * Augmentation
+        * Adicionando o contexto relevante que foi buscado no prompt do usuário, usando como entrada para o foundation model
+    * Generation
+        * Resposta do foundation model baseada no prompt aumentado.
