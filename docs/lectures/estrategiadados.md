@@ -38,3 +38,5 @@ _Erika Nagamine - Specialist SA, Analytics AWS_
 - Cultura de dados
 - Well-Architected Framework AWS
 - IA Generativa genérica
+
+[Voltar](/aws-cloud-experience-2024)

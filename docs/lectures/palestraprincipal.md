@@ -78,3 +78,5 @@ Entendimento das Regras Tarifárias
 
 Sobre dados
 - Dados são o diferencial estratégico!
+
+[Voltar](/aws-cloud-experience-2024)

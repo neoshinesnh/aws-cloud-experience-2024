@@ -31,3 +31,5 @@ _Fernando Sapata - Diretor de Pessoas, Cultura e Encantamento - Select Soluçõe
     * Safeleads
     * Kultivi
     * Sanar
+
+[Voltar](/aws-cloud-experience-2024)

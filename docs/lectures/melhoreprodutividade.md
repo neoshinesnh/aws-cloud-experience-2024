@@ -21,3 +21,5 @@ _Carolina Junqueira Ferreira - AWS_
         * Personalize e controle o Amazon Q com controles de segurança (guardrails)
 * Desafios da adoção de IA Generativa
 * Benefício: Acelerar a produtividade  
+
+[Voltar](/aws-cloud-experience-2024)

@@ -20,3 +20,5 @@ _Fabio Balancin - AWS_
 * PartyRock 
     * É um espaço onde você pode construir aplicativos gerados por IA em um playground alimentado pelo Amazon Bedrock. É uma maneira rápida e divertida de aprender sobre IA generativa.
     * (link do Party Rock)[https://partyrock.aws/]   
+
+[Voltar](/aws-cloud-experience-2024)

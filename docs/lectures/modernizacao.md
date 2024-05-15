@@ -48,3 +48,5 @@ _Gabriel Leite da Silva - AWS_
 * Serverless com Amazon Bedrock
     * O Web Adapter oferece suporte ao streaming de resposta em todos os tempos de execução do AL2, incluindo o tempo de execução do Python
     * Amazon Step Function com Amazon Bedrock, possibilita a interconexão de business com GenAI (paralelização., determinismo e integração)
+
+[Voltar](/aws-cloud-experience-2024)

@@ -127,3 +127,5 @@ Stability.ai
 1 - seleciona os casos de uso alinhados aos objetivos de negócios
 2 - invista na capacitação do seu time em IA generativa
 3 - Inicie seus testes, POCs, MVPs para provar o valor ao negócio
+
+[Voltar](/aws-cloud-experience-2024)

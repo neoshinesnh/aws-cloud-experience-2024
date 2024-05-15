@@ -14,3 +14,5 @@
         * Agora, a Alexa está ainda mais inteligente com a incorporação de inteligência artificial generativa em seus novos recursos.
 
 * Foi falado na palestra inicial sobre a AWS estar criando valor através de suas soluções que amparam toda essa indústria.
+
+[Voltar](/aws-cloud-experience-2024)

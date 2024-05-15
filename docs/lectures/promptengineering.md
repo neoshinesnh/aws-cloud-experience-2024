@@ -34,3 +34,5 @@ _Ariane Vieira - Solutions Architect - AWS_
         * Adicionando o contexto relevante que foi buscado no prompt do usuário, usando como entrada para o foundation model
     * Generation
         * Resposta do foundation model baseada no prompt aumentado.
+
+[Voltar](/aws-cloud-experience-2024)
