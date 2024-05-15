@@ -1,8 +1,8 @@
 ## 14H00 - 14H30 - Data & Analytics | Construa uma estratégia de dados unificada e integrada de ponta a ponta para Analytics e Gen AI
 
-![Data & Analytics | Construa uma estratégia de dados unificada e integrada de ponta a ponta para Analytics e Gen AI](./pictures/estrategiadados.jpg)
-
 _Erika Nagamine - Specialist SA, Analytics AWS_
+
+![Data & Analytics - Construa uma estratégia de dados unificada e integrada de ponta a ponta para Analytics e Gen AI](./pictures/estrategiadados.jpg)
 
 * A cultura é o maior impedimento
     * 99% das empresas de primeira linha estão investindo em dados

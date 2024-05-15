@@ -3,7 +3,7 @@
 
 _Ariane Vieira - Solutions Architect - AWS_
 
-![IA Generativa | Prompt Engineering x Fine Tuning x RAG. Qual eu devo usar?](./pictures/promptengineering.jpg)
+![IA Generativa - Prompt Engineering x Fine Tuning x RAG. Qual eu devo usar?](./pictures/promptengineering.jpg)
 
 * Há distinções entre os modelos convencionais de aprendizado de máquina e os modelos de base (Foundation Models)
 * Abordagens comuns para melhorar Foundation Models (FM) - Prompt Engineering:

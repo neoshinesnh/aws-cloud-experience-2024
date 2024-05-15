@@ -1,10 +1,11 @@
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
+# 10H15 - 10H55 - IA Generativa | Impulsionando a inovação em todos os setores com IA generativa
+
 _Lino Maggi - Sr Manager - Specialist Solutions Architects - AWS_
 
-![IA Generativa | Impulsionando a inovação em todos os setores com IA generativa](./pictures/innovacaoia.jpg)
+![IA Generativa - Impulsionando a inovação em todos os setores com IA generativa](./pictures/innovacaoia.jpg)
 
-# 10H15 - 10H55 - IA Generativa | Impulsionando a inovação em todos os setores com IA generativa
 **2023 - o ano das POCs**
 - Como escolho um modelo?
 - Qual o impacto para o meu negócio?

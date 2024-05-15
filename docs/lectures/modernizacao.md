@@ -2,7 +2,7 @@
 
 _Gabriel Leite da Silva - AWS_
 
-![App Modernization | Modernizando sua arquitetura na AWS com serverless e containers](./pictures/modernizacao.jpg)
+![App Modernization - Modernizando sua arquitetura na AWS com serverless e containers](./pictures/modernizacao.jpg)
 
 * Aplicações monolíticas - limitações
     * Difícil de escalar

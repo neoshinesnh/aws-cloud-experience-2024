@@ -2,7 +2,7 @@
 
 _Fernando Sapata - Diretor de Pessoas, Cultura e Encantamento - Select Soluções_
 
-![O poder da experimentação nos negócios | Select Soluções](./pictures/poderexperimentacao.jpg)
+![O poder da experimentação nos negócios - Select Soluções](./pictures/poderexperimentacao.jpg)
 
 * Sobre a Select Soluções
     * A Select é uma empresa estabelecida desde 2016, criada com a missão de oferecer soluções inteligentes, inovadoras e acessíveis para o mercado nacional e internacional. Fundada por profissionais com mais de 18 anos de experiência em tecnologia e negócios, a empresa conta com uma equipe de especialistas altamente certificados e reconhecidos globalmente. Ao longo dos anos, desenvolveu mais de 9 pilares de soluções e serviços para auxiliar empresas na sua transformação digital e na maximização dos lucros.

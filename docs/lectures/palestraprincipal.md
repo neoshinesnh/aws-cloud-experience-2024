@@ -1,5 +1,7 @@
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
+# 09H15 - 10H15 - Palestra Principal - IA Generativa para Líderes
+
 _Melissa Ravanini - Sr Mgr, Solutions Architecture - AWS_
 
 _Hélvio Machado - Sr Mgr, Solutions Architecture - AWS_
@@ -7,8 +9,6 @@ _Hélvio Machado - Sr Mgr, Solutions Architecture - AWS_
 _João Fornari Jr - Copastur_
 
 ![Palestra Principal - IA Generativa para Líderes](./pictures/palestraprincipal.jpg)
-
-# 09H15 - 10H15 - Palestra Principal - IA Generativa para Líderes
 
 ## IA Generativa
 - Qualidade dos dados - desafio #1
