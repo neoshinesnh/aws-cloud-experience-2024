@@ -2,6 +2,8 @@
 # AWS Cloud Experience 2024
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
+![Abertura do Evento](./lectures/pictures/capa.jpg)
+
 ## 09H00 - 09H15 - [Abertura](/lectures/abertura.md)
 
 ## 09H15 - 10H15 - [Palestra Principal - IA Generativa para Líderes](/lectures/palestraprincipal.md)
