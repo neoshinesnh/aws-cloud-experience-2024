@@ -1,4 +1,5 @@
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
+_Lino Maggi - Sr Manager - Specialist Solutions Architects - AWS_
 
 # 10H15 - 10H55 - IA Generativa | Impulsionando a inovação em todos os setores com IA generativa
 **2023 - o ano das POCs**
