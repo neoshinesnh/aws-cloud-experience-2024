@@ -1,5 +1,7 @@
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
+![Abertura do Evento](./pictures/abertura.jpg)
+
 # Abertura - 09H00 - 09H15
 
 * **Inventar e Simplificar:** Lideres esperam e exigem inovação e invenção de seus times, sempre encontrando formas de simplificar. Atentos ao mundo lá fora, buscam novas ideias em toda parte, sem usar a desculpa do "não foi inventado aqui". Como estamos sempre inovando, sabemos que podemos ficar incompreendidos por muito tempo.

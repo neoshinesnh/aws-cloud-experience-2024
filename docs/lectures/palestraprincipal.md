@@ -6,6 +6,8 @@ _Hélvio Machado - Sr Mgr, Solutions Architecture - AWS_
 
 _João Fornari Jr - Copastur_
 
+![Palestra Principal - IA Generativa para Líderes](./pictures/palestraprincipal.jpg)
+
 # 09H15 - 10H15 - Palestra Principal - IA Generativa para Líderes
 
 ## IA Generativa

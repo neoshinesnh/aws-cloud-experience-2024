@@ -2,6 +2,8 @@
 
 _Carolina Junqueira Ferreira - AWS_
 
+![Melhore a produtividade das suas equipes utilizando o Amazon Q Business](./pictures/melhoreprodutividade.jpg)
+
 ### Amazon Q
 * Seu assistente de IA generativa projetado para um trabalho que pode ser personalizado para seus negócios, dados, código e operações
 * Principais funcionalidades

@@ -1,5 +1,8 @@
 ## 14H55 - 15H35 - IA Generativa | Fazendo deploy de uma solução de IA generativa de ponta a ponta
+
 _Fabio Balancin - AWS_
+
+![IA Generativa | Fazendo deploy de uma solução de IA generativa de ponta a ponta](./pictures/deployia.jpg)
 
 * Amazon Bedrock - A maneira mais fácil de criar aplicações de IA generative com LLMs e outros FMs
     * Escolha FMs líderes do setor, como a Al21 Labs, Amazon, Anthropic, Cohere, Meta, Mistral Al e Stability AI
