@@ -1,0 +1,41 @@
+## 10H15 - 10H55 - IA Generativa | Impulsionando a inovação em todos os setores com IA generativa
+- 2023 - o ano das POCs:
+	- Como escolho um modelo?
+	- Qual o impacto para o meu negócio?
+	- O que é um Modelo Fundacional?
+	- Quais modelos devemos testar?
+	- O que é LLM?
+- 2024 - ano de começar a suas suas aplicações com IA generativa para o ambiente produtivo
+- Setores
+  - Saúde &
+
+ Life Sciences
+    - Imagens Médicas
+    - Descoberta de Medicamentos
+    - Aprimoramento de Ensaios Clínicos
+    - Pesquisas e Relatórios
+  - Industrial & Manufatura
+    - Design de Produto
+    - Eficiência Operacional
+    - Manutenção
+    - Assistência
+    - Otimização da Cadeia de Suprimentos
+    - Diagnóstico de Equipamentos
+  - Serviços Financeiros
+    - Gestão de Portfólio
+    - Documentação Financeira
+    - Consultoria Inteligente
+    - Detecção de Fraude
+    - Assistência de Compliance
+  - Varejo
+    - Otimização de Preços
+    - Revisão de Avaliações de Produto
+    - Otimização de Marketing
+    - Descrição de Produto
+    - Geração de Conteúdo de Campanha
+  - Mídia & Entretenimento
+    - Conteúdo de Alta Qualidade em Escala
+    - Enriquecimento de Conteúdo de Transmissão
+    - Marcação Automatizada de Conteúdo
+    - Otimização da Experiência do Assinante
+    - Geração Automatizada de Destaques
