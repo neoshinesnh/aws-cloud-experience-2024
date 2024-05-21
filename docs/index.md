@@ -1,5 +1,5 @@
 
-# AWS Cloud Experience 2024
+# AWS Cloud Experience 2024 - Anotações de Elton Martins
 [_https://aws.amazon.com/pt/events/awscloudexperience1/_](https://aws.amazon.com/pt/events/awscloudexperience1/)
 
 ![Abertura do Evento](./lectures/pictures/capa.jpg)
